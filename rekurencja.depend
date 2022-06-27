@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1542493806 source:c:\users\pawel\desktop\logistic\rekurencja\main.cpp
+	<iostream>
+	<vector>
+
+1542578462 source:c:\users\pawel\desktop\logistic\rekurencja - copy\src\permutacje.cpp
+	"permutacje.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1542578462 c:\users\pawel\desktop\logistic\rekurencja - copy\include\permutacje.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1542725764 source:c:\users\pawel\desktop\logistic\rekurencja - copy\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544358274 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy\src\permutacje.cpp
+	"permutacje.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1542578462 c:\users\pawel\desktop\logistic\rekurencja - copy - copy\include\permutacje.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1544358208 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544397218 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3)\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544391537 c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3)\include\permutacje.h
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
+1544394913 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3)\src\permutacje.cpp
+	"permutacje.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
+1544466326 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3) - copy\src\permutacje.cpp
+	"permutacje.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
+1544458716 c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3) - copy\include\permutacje.h
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
+1544470052 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3) - copy\main.cpp
+	"klasa.h"
+
+1544466978 source:c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3) - copy\src\klasa.cpp
+	"klasa.h"
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544465158 c:\users\pawel\desktop\logistic\rekurencja - copy - copy - copy (3) - copy\include\klasa.h
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544525794 source:c:\users\pawel\desktop\regresja liniowa\main.cpp
+	<iostream>
+	"klasa.h"
+
+1544468758 c:\users\pawel\desktop\regresja liniowa\include\klasa.h
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544462316 c:\users\pawel\desktop\regresja liniowa\include\permutacje.h
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
+1544525833 source:c:\users\pawel\desktop\regresja liniowa\src\klasa.cpp
+	"klasa.h"
+	<iostream>
+	<vector>
+	<math.h>
+	"permutacje.h"
+
+1544469926 source:c:\users\pawel\desktop\regresja liniowa\src\permutacje.cpp
+	"permutacje.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<math.h>
+	<string>
+
